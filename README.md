@@ -1,6 +1,8 @@
 # ia-tetris
 Projecto de Inteligência Artificial 2021 - Tetris
 
+![Image](/screenshots/screenshot.png)
+
 ## How to install
 
 Make sure you are running Python 3.7 or higher
